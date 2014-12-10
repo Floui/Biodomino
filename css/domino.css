@@ -1,0 +1,26 @@
+body {
+    text-align: center;
+    background: #a46740 url(../image/bg.jpg);
+    color: #ccc;
+}
+.game,footer{
+
+}
+.levaLista{
+    text-align: center;
+    background: #ffffff;
+    color: #a46740;
+    box-shadow:10px 10px 5px #000000;
+    width: 100px;
+    height: 410px;
+
+}
+#game {
+    background: #cccccc url(../image/table.jpg);
+    position: relative;
+    width: 768px;
+    height: 440px;
+    overflow: hidden;
+    margin: 0 auto;
+}
+
